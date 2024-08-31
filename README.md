@@ -3,7 +3,7 @@
 Task 1: Add Numbers
 Purpose: Adds two numbers.
 
-Explanation:
+Explanation: 
 
 The add_numbers function takes two parameters, num1 and num2.
 It returns the sum of num1 and num2.
