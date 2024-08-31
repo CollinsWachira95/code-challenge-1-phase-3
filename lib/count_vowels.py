@@ -5,4 +5,4 @@ def count_vowels(text):
     for char in text:
         if char in vowels:
             count += 1
-    return count
+    return count 
