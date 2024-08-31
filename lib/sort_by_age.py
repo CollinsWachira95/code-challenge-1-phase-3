@@ -3,4 +3,4 @@ def sort_by_age(tuples):
     def key_function(tuple_item):
         return tuple_item[1]
     
-    return sorted(tuples, key=key_function)
+    return sorted(tuples, key=key_function) 
