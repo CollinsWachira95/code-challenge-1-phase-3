@@ -11,4 +11,4 @@ def my_function():
     print("Original function called")
 
 decorator_func = apply_decorator(my_function)
-decorator_func()
+decorator_func() 
