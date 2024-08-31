@@ -5,4 +5,4 @@ class Car:
         self.year = year
 
     def display_info(self):
-        print(f"Make: {self.make}, Model: {self.model}, Year: {self.year}")
+        print(f"Make: {self.make}, Model: {self.model}, Year: {self.year}") 
