@@ -1,4 +1,4 @@
-def Merge(dict1, dict2):
+def merge_dicts(dict1, dict2):
     """Merges two dictionaries"""
     return(dict2.update(dict1))
 
@@ -11,5 +11,5 @@ dict2 = {'d': 6, 'c': 4}
 print(Merge(dict1, dict2))
 
 """ changes made in dict2 """
-print(dict2)
+print(dict2) 
 
