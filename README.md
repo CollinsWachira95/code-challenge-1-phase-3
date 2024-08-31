@@ -94,14 +94,14 @@ Open a terminal or command prompt.
 Navigate to the directory where you want to clone the repository.
 
 Use the following command:
-git clone [GitHub Repository Link]
+git clone [https://github.com/CollinsWachira95/code-challenge-1-phase-3/tree/main]
 
 This will create a local copy of the repository on your machine.
 
 2. Navigate to the Directory:
 Use the cd command to change directories to the newly created repository:
 
-cd [Repository Name]
+cd [code-challenge]
 
 
 3. Run the Python Script:
